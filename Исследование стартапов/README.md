@@ -20,6 +20,9 @@
 Стек: Python (pandas, numpy ,  matplotlib, missingno , seaborn, warnings)
 
 Выводы:
-Было бы целесообразно инвестировать в такие массовые компаниии как - software или biotechnology, 
+
+Было бы целесообразно инвестировать в такие массовые компаниии как - software или biotechnology. 
+
 финансированием - 'angel', если бы на дворе был 2015 год.
+
 
