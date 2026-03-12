@@ -30,6 +30,7 @@
 большей площадью продается более полугода. 
 Стоимость в городах Ленобласти меньше примерно на 40%. 
 
-
+Стек: SQL
 
 https://datalens.ru/gje5j5zwaux61-dashbord-dlya-agentstva-nedvizhimosti
+
